@@ -55,19 +55,4 @@ Let’s connect and build something amazing together!
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitparashar123&show_icons=true&theme=radical" alt="Rohit's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitparashar123&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitparashar123&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌟 "Code is like humor. When you have to explain it, it’s bad." – Cory House
